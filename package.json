@@ -1,6 +1,6 @@
 {
   "name": "trayston-bomb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fresh chain scanner",
   "main": "start_scan.js",
   "scripts": {
